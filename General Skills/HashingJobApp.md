@@ -20,7 +20,7 @@ Well, to save time I'm just going run the given words through a md5 online hashe
 >
 >Correct.
 
-Looks like thats what I need to do, so I do it 2 more times for the key:
+Looks like thats what I need to do, so I'll do it 2 more times for the key:
 
 >Please md5 hash the text between quotes, excluding the quotes: 'construction workers'
 >
