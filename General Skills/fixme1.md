@@ -12,8 +12,9 @@ IndentationError: unexpected indent
 
 After opening the given file, I found the issue here: 
 
-`flag = str_xor(flag_enc, 'enkidu')
-  print('That is correct! Here\'s your flag: ' + flag)`
+```flag = str_xor(flag_enc, 'enkidu')
+  print('That is correct! Here\'s your flag: ' + flag)
+  ```
   
  Unlike in the best language, C, python gets rather upset if you add unecessary spaces.
  
