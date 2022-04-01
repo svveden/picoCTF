@@ -19,7 +19,7 @@ This is what I got:
 $ python print.py 
 5909
 ```
-After rerunning the level2.py script and putting `5905` as the password I got the key:
+After rerunning the level2.py script and putting `5909` as the password I got the key:
 
 >Please enter correct password for flag: 5909
 
