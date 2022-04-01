@@ -9,6 +9,7 @@ After downloading the given python script and running it, I got the following sy
     print('That is correct! Here\'s your flag: ' + flag)
 IndentationError: unexpected indent
 `
+
 After opening the given file, I found the issue here: 
 
 `flag = str_xor(flag_enc, 'enkidu')
