@@ -12,4 +12,4 @@ After rerunning the command with the -h flag, I was given the following output:
 
 > Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_616f7182}
 
-CTF done.
+CTF done :shrug:
