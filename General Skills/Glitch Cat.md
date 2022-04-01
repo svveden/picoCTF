@@ -3,7 +3,7 @@
 >Our flag printing service has started glitching! 
 >$ nc saturn.picoctf.net 55984
 
-I'll talk to the server with the given command, and look at what I got:
+I talked to the server with the given command, and look at what I got:
 
 >'picoCTF{gl17ch_m3_n07_' + chr(0x38) + chr(0x39) + chr(0x38) + chr(0x61) + chr(0x33) + chr(0x66) + chr(0x61) + chr(0x36) + '}'
 
